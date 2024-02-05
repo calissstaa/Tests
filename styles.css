@@ -1,0 +1,20 @@
+body{margin: 0;padding: 0;
+    display: grid;
+    place-content: center;
+    height: 100vh;
+}
+
+.plate{
+    background-color: rgb(100, 100, 155);
+    border-radius: 25px;
+    width: 50rem;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-text {
+    color: white;
+    font-size: 5rem;
+    text-align: center;
+}
